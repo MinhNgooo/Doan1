@@ -1,0 +1,15 @@
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSol.7C205600.Up2Date
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\đồ án\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb

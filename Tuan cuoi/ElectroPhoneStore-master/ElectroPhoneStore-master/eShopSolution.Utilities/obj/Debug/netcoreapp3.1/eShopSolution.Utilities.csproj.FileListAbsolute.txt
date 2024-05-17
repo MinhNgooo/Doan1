@@ -1,0 +1,10 @@
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.deps.json
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.AssemblyReference.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfoInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfo.cs
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.CoreCompileInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb

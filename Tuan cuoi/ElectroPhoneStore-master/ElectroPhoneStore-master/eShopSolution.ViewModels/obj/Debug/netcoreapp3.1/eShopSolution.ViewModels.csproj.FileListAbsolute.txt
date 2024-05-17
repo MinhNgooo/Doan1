@@ -1,0 +1,13 @@
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.deps.json
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.AssemblyReference.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfoInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfo.cs
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSol.167DD94B.Up2Date
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb

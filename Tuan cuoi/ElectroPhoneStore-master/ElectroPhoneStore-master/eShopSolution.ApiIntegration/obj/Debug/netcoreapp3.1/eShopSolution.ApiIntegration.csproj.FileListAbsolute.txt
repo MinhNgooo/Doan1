@@ -1,0 +1,15 @@
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSol.7C205600.Up2Date
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\thu moi\temple\ElectroPhoneStore-master\ElectroPhoneStore-master\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb

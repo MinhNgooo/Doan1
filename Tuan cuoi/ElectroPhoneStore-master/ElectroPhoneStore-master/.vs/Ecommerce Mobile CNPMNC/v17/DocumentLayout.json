@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|d:\\thu moi\\temple\\electrophonestore-master\\electrophonestore-master\\eshopsolution.apiintegration\\productapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|solutionrelative:eshopsolution.apiintegration\\productapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|d:\\thu moi\\temple\\electrophonestore-master\\electrophonestore-master\\eshopsolution.apiintegration\\categoryapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|solutionrelative:eshopsolution.apiintegration\\categoryapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|d:\\thu moi\\temple\\electrophonestore-master\\electrophonestore-master\\eshopsolution.apiintegration\\baseapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2384DDB-7D76-476B-A13D-439E08BFE4DF}|eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj|solutionrelative:eshopsolution.apiintegration\\baseapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|0.Solution Item{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|0.Solution Item{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryApiClient.cs",
+              "DocumentMoniker": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\CategoryApiClient.cs",
+              "RelativeDocumentMoniker": "eShopSolution.ApiIntegration\\CategoryApiClient.cs",
+              "ToolTip": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\CategoryApiClient.cs",
+              "RelativeToolTip": "eShopSolution.ApiIntegration\\CategoryApiClient.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:30:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiClient.cs",
+              "DocumentMoniker": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\ProductApiClient.cs",
+              "RelativeDocumentMoniker": "eShopSolution.ApiIntegration\\ProductApiClient.cs",
+              "ToolTip": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\ProductApiClient.cs",
+              "RelativeToolTip": "eShopSolution.ApiIntegration\\ProductApiClient.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwv8AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:30:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseApiClient.cs",
+              "DocumentMoniker": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\BaseApiClient.cs",
+              "RelativeDocumentMoniker": "eShopSolution.ApiIntegration\\BaseApiClient.cs",
+              "ToolTip": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\eShopSolution.ApiIntegration\\BaseApiClient.cs",
+              "RelativeToolTip": "eShopSolution.ApiIntegration\\BaseApiClient.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:23:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\thu moi\\temple\\ElectroPhoneStore-master\\ElectroPhoneStore-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-09T15:22:23.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

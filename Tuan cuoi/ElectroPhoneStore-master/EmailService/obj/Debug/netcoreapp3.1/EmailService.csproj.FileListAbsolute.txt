@@ -1,0 +1,13 @@
+D:\đồ án\ElectroPhoneStore-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\đồ án\ElectroPhoneStore-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\đồ án\ElectroPhoneStore-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\đồ án\ElectroPhoneStore-master\EmailService\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\đồ án\ElectroPhoneStore-master\EmailService\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailSer.199DDF96.Up2Date
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\đồ án\ElectroPhoneStore-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb

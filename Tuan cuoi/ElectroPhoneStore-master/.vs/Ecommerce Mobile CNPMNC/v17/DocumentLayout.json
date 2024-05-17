@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|0.Solution Item{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|0.Solution Item{1965EE2A-F6D2-4841-984D-DA3A5251CB84}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E82F26-7852-44F8-A415-2DD9E87A38CE}|eShopSolutionBackendApi\\eShopSolutionBackendApi.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolutionbackendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E82F26-7852-44F8-A415-2DD9E87A38CE}|eShopSolutionBackendApi\\eShopSolutionBackendApi.csproj|solutionrelative:eshopsolutionbackendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E82F26-7852-44F8-A415-2DD9E87A38CE}|eShopSolutionBackendApi\\eShopSolutionBackendApi.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolutionbackendapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E82F26-7852-44F8-A415-2DD9E87A38CE}|eShopSolutionBackendApi\\eShopSolutionBackendApi.csproj|solutionrelative:eshopsolutionbackendapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\views\\user\\roleassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\views\\user\\roleassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|d:\\\u0111\u1ED3 \u00E1n\\electrophonestore-master\\eshopsolution.adminapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41FEE9D-8610-4FEB-8C05-9A0379D45473}|eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj|solutionrelative:eshopsolution.adminapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolutionBackendApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eShopSolutionBackendApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolutionBackendApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eShopSolutionBackendApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T09:21:46.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolutionBackendApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eShopSolutionBackendApi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolutionBackendApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eShopSolutionBackendApi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:38:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleAssign.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\User\\RoleAssign.cshtml",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Views\\User\\RoleAssign.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\User\\RoleAssign.cshtml",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Views\\User\\RoleAssign.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:44:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:57:14.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:57:05.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-11T15:08:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T08:39:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAALQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:14:13.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T14:20:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAUwKsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:41:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "eShopSolution.AdminApp\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\ElectroPhoneStore-master\\eShopSolution.AdminApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "eShopSolution.AdminApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:51:02.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
