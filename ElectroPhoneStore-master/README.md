@@ -35,5 +35,3 @@ Abcd1234$
 - Fork and create your branch
 - Create Pull request to us.
 
-## Reference
-https://github.com/teduinternational/eShopSolution

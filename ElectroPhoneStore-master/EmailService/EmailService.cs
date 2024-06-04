@@ -38,7 +38,7 @@ namespace EmailService
             smtp.Connect("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
 
             // Xác thực với máy chủ SMTP bằng cách sử dụng thông tin đăng nhập của Gmail
-            // smtp.Authenticate("hytranluan@gmail.com", ""); // Bạn nên cung cấp mật khẩu hợp lệ ở đây
+     
             smtp.Authenticate("cuongdoladola2002@gmail.com", "chmu onnh hffc jewf");
             try
             {
